@@ -1,142 +1,289 @@
-# 👋 Hi, I'm Ashik Ghimire
+# 🚀 Ashik Ghimire
 
-🚀 Web Developer | System Administrator | Aviation IT Professional
+### 👨‍💻 #1MD | One Man Developer
 
-I'm a passionate software developer and technology enthusiast currently working at the **Civil Aviation Authority of Nepal (CAAN)**. I specialize in web application development, system administration, server management, and digital transformation solutions for the aviation sector.
+> Building, Deploying & Managing Enterprise-Scale Aviation Systems
 
-## 👨‍💻 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;System+Architect;DevOps+Engineer;Aviation+Technology+Professional;Founder+of+Visionary+Tech;Building+Government-Scale+Digital+Platforms" alt="Typing SVG" />
+</p>
 
-* 🔭 Currently working on enterprise-level aviation systems
-* 🌱 Learning and exploring Python, AI, and modern cloud technologies
-* 💡 Interested in Web Development, System Design, DevOps, and Aviation Technology
-* 🤝 Open to collaborating on innovative software projects
-* 🏢 Founder of Visionary Tech Pvt. Ltd.
-* ✈️ 6+ years of experience in Aviation IT
+<p align="center">
+  <img src="https://img.shields.io/badge/20%2B-Websites-success" />
+  <img src="https://img.shields.io/badge/50%2B-Offices-blue" />
+  <img src="https://img.shields.io/badge/MultiTenant-CMS-orange" />
+  <img src="https://img.shields.io/badge/API-Ecosystem-red" />
+  <img src="https://img.shields.io/badge/DevOps-Infrastructure-purple" />
+</p>
 
 ---
 
-## 🚀 Live Projects
+## 💫 About Me
 
-### 🌐 CAAN Airports Information System
+I'm **Ashik Ghimire**, a passionate Full Stack Developer, System Architect, DevOps Engineer, and Founder of **Visionary Tech Pvt. Ltd.**
 
-**URL:** https://airports.caanepal.gov.np
+I specialize in designing and building large-scale digital platforms, aviation systems, enterprise applications, APIs, cloud infrastructure, and multi-tenant solutions.
 
-A centralized platform providing information and management services for airports under the Civil Aviation Authority of Nepal.
+What makes me different?
+
+🔥 I design it.
+🔥 I develop it.
+🔥 I deploy it.
+🔥 I manage it.
+
+**One Developer. End-to-End Ownership.**
+
+---
+
+# 🏢 Enterprise Aviation Systems
+
+## ✈️ CAAN Multi-Tenant CMS Platform
+
+A centralized CMS powering **20+ aviation and government websites** from a single backend architecture.
+
+### Highlights
+
+✅ Multi-Tenant Architecture
+✅ Shared Backend Infrastructure
+✅ Role-Based Access Control
+✅ Centralized Media Management
+✅ API Integrations
+✅ Audit Logs & Security Controls
+✅ Scalable Government Infrastructure
+
+### Powered Websites
+
+🌐 https://airports.caanepal.gov.np
+
+🌐 https://flightsafety.caanepal.gov.np
+
+🌐 https://academy.caanepal.gov.np
+
+🌐 Pokhara International Airport
+
+🌐 Gautam Buddha International Airport
+
+🌐 Multiple CAAN Directorates & Offices
+
+---
+
+## 🌐 Airports Information System
+
+A nationwide digital airport information platform serving airports across Nepal.
 
 **Features**
 
-* Airport Information Management
+* Airport Profiles
+* Operational Information
+* Publications & Notices
 * Digital Resources
-* Organizational Data
-* Real-time Updates
-* Responsive User Interface
+* Public Services
+
+🔗 https://airports.caanepal.gov.np
 
 ---
 
-### 🛡️ Flight Safety Information System
+## 🛡️ Flight Safety Information System
 
-**URL:** https://flightsafety.caanepal.gov.np
-
-A dedicated aviation safety platform designed to enhance operational safety and streamline safety-related processes.
+Enterprise safety platform supporting aviation safety culture and regulatory compliance.
 
 **Features**
 
 * Safety Reporting
-* Incident Management
-* Regulatory Documentation
-* Aviation Safety Resources
-* Data Analytics & Monitoring
+* Incident Tracking
+* Risk Management
+* Safety Publications
+* Compliance Monitoring
+
+🔗 https://flightsafety.caanepal.gov.np
 
 ---
 
-### 🎓 CAAN Academy Portal
+## 🎓 CAAN Academy
 
-**URL:** https://academy.caanepal.gov.np
-
-An educational and training management platform for aviation professionals and trainees.
+Digital learning ecosystem for aviation professionals.
 
 **Features**
 
-* Online Learning Resources
 * Training Management
+* Learning Resources
 * Course Registration
-* Academic Information System
-* Digital Certification Support
+* Academic Management
+
+🔗 https://academy.caanepal.gov.np
 
 ---
 
-### 🔌 CAAN API Services
+## 🔌 API Management Platform
 
-**URL:** https://api.caanepal.gov.np
+Centralized integration layer connecting multiple aviation systems.
 
-Centralized API gateway and integration platform powering multiple aviation applications and services.
+### Core Features
 
-**Features**
-
-* RESTful APIs
-* Secure Authentication
-* System Integration
+* Authentication & Authorization
+* API Gateway
+* Service Monitoring
 * Real-Time Data Exchange
-* Developer-Friendly Architecture
+* Enterprise Integrations
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 Executive Management Dashboard
+
+A centralized dashboard for organizational decision making.
+
+### Features
+
+* KPI Monitoring
+* Real-Time Analytics
+* Data Visualization
+* Performance Tracking
+* Executive Reporting
+
+---
+
+## 📝 Feedback Management System
+
+Serving **50+ CAAN Offices** through a single platform.
+
+### Features
+
+* Citizen Feedback
+* Complaint Tracking
+* Workflow Automation
+* Reporting & Analytics
+* Multi-Office Management
+
+---
+
+# 🚀 Products & Startups
+
+## 🍽️ ScanBhansa
+
+QR-Based Smart Restaurant Ordering System
+
+* QR Menu
+* Contactless Ordering
+* Restaurant Dashboard
+* Analytics & Reports
+* Mobile Friendly
+
+---
+
+## 📚 KhullaNote
+
+Open Learning & Knowledge Sharing Platform
+
+* Notes Sharing
+* Educational Resources
+* Search & Discovery
+* Community Learning
+
+---
+
+## 🩸 BloodBankNepal
+
+Connecting blood donors with those in need.
+
+* Donor Registry
+* Blood Requests
+* Emergency Notifications
+* Community Support
+
+---
+
+# 🏢 Visionary Tech Pvt. Ltd.
+
+### Founder & Lead Developer
+
+**Your Vision, Our Tech**
+
+Building innovative software solutions for businesses, government organizations, startups, and enterprises.
+
+### Services
+
+* Enterprise Software Development
+* Web Applications
+* Mobile Applications
+* API Development
+* Cloud Infrastructure
+* DevOps & Automation
+* System Integration
+
+🌐 https://visionarytech.com.np
+
+---
+
+# 💻 Tech Arsenal
+
+### Languages
+
+```text
+PHP • Python • Java • JavaScript • SQL
+```
 
 ### Backend
 
-* PHP (Laravel)
-* Python
-* Java
-* REST APIs
+```text
+Laravel • Django • Node.js • REST APIs
+```
 
 ### Frontend
 
-* React.js
-* Next.js
-* Vue.js
-* JavaScript
-* HTML5
-* CSS3
-* Tailwind CSS
+```text
+React • Next.js • Vue.js • Tailwind CSS
+```
 
-### Database
+### Databases
 
-* MySQL
-* PostgreSQL
-* MongoDB
-* Oracle Database
+```text
+PostgreSQL • MySQL • Oracle • MongoDB
+```
 
-### DevOps & Infrastructure
+### Infrastructure
 
-* Linux Server Administration
-* Apache & Nginx
-* Docker
-* Git & GitHub
-* SSL Management
-* System Monitoring
+```text
+Linux • Apache • Nginx • Docker • GitHub Actions
+```
 
 ---
 
-## 📈 GitHub Stats
+# 📈 Impact
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashikghimire\&show_icons=true)
+🏢 20+ Government & Aviation Websites
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashikghimire\&layout=compact)
+🏛️ 50+ Offices Connected
+
+✈️ Aviation Industry Solutions
+
+🔌 Enterprise API Ecosystem
+
+📊 Executive Dashboards
+
+🚀 Multi-Tenant Architecture
+
+⚡ End-to-End Product Ownership
 
 ---
 
-## 🤝 Connect With Me
+# 🌍 Personal Links
 
-* 🌐 Website: https://visionarytech.com.np
-* 💼 LinkedIn: [www.linkedin.com/in/ashik-ghimire](http://www.linkedin.com/in/ashik-ghimire)
-* 📧 Email: [ashikghimire.dev@gmail.com](mailto:ashikghimire.dev@gmail.com)
-* 🏢 Visionary Tech Pvt. Ltd.
+🌐 https://ashikghimire.com.np
+
+📝 https://ghimireashik.com.np
+
+🏢 https://visionarytech.com.np
+
+💼 LinkedIn: linkedin.com/in/ashik-ghimire
 
 ---
 
-### 💡 Motto
+## ⚡ Philosophy
 
-> "Building innovative digital solutions for aviation and beyond."
+> "Great systems are not built by code alone.
+>
+> They are built by vision, architecture, ownership, and continuous improvement."
 
-⭐ Feel free to explore my repositories and collaborate on exciting projects!
+### 🚀 #1MD — One Man Developer
+
+**Designing. Developing. Deploying. Delivering.**
